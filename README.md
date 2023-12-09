@@ -1,11 +1,11 @@
-# 20-essential-Linux-commands
+# 20-essential-Linux-commands  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.20-essential-Linux-commands"/>
 Here is my Linux manual you can buy on Amazon.
 ## Self-Help Author on Amazon
-- [HOW TO SUCCEED IN TECH SUPPORT](https://a.co/d/iOWhCS9)
+- [Mastering Linux: A BEGINNER'S GUIDE TO COMMAND LINE AND SYSTEM ADMINISTRATION Hardcover](https://a.co/d/iOWhCS9)
 
 
 Here's a table outlining 20 essential Linux commands along with brief explanations:
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.20-essential-Linux-commands"/>
+
 
 
 
