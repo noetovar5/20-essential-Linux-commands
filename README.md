@@ -1,4 +1,5 @@
 # 20-essential-Linux-commands
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.noetovar5"/>
 Here's a table outlining 20 essential Linux commands along with brief explanations:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.20-essential-Linux-commands"/>
 
